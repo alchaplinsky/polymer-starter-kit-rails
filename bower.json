@@ -1,0 +1,7 @@
+{
+  "name": "polymer-starter-kit",
+  "private": true,
+  "dependencies": {
+    "polymer-starter-kit": "PolymerElements/polymer-starter-kit#^1.0.2"
+  }
+}

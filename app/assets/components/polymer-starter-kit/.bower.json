@@ -1,0 +1,26 @@
+{
+  "name": "polymer-starter-kit",
+  "private": true,
+  "dependencies": {
+    "iron-elements": "PolymerElements/iron-elements#1.0.0",
+    "paper-elements": "PolymerElements/paper-elements#1.0.1",
+    "platinum-elements": "PolymerElements/platinum-elements#1.0.1",
+    "neon-elements": "PolymerElements/neon-elements#1.0.0",
+    "page": "visionmedia/page.js#~1.6.3"
+  },
+  "devDependencies": {
+    "web-component-tester": "*",
+    "test-fixture": "PolymerElements/test-fixture#^1.0.0"
+  },
+  "homepage": "https://github.com/PolymerElements/polymer-starter-kit",
+  "version": "1.0.2",
+  "_release": "1.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.2",
+    "commit": "d9db45306837aa58ca39eeb57411e52201454bee"
+  },
+  "_source": "git://github.com/PolymerElements/polymer-starter-kit.git",
+  "_target": "^1.0.2",
+  "_originalSource": "PolymerElements/polymer-starter-kit"
+}
